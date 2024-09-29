@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-echo 'Hi, im here';
+echo 'Hi, im here!';
     ?>
 </body>
 </html>
